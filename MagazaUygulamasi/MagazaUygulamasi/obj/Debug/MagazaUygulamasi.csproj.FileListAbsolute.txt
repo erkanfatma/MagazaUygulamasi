@@ -1,0 +1,12 @@
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\bin\Debug\MagazaUygulamasi.exe.config
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\bin\Debug\MagazaUygulamasi.exe
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\bin\Debug\MagazaUygulamasi.pdb
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.Form1.resources
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.MainPage.resources
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.Properties.Resources.resources
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.csproj.GenerateResource.cache
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.exe
+C:\Users\anttech\Desktop\MagazaUygulamasi\MagazaUygulamasi\obj\Debug\MagazaUygulamasi.pdb
