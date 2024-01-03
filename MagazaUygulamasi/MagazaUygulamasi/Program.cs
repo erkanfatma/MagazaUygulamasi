@@ -23,6 +23,7 @@ namespace MagazaUygulamasi
             urun.Name = txtName.Text;
             urun.Color = "Kırmızı";
             urun.Stock = 4;
+            Console.WriteLine("Log operation");
         }
     }
 }
